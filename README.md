@@ -80,7 +80,7 @@ emotion_detection_project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/emotion-detection.git
+   git clone https://github.com/Abantika02/Emotion-Detection-Through-Facial-Expressions.git
    cd emotion-detection
    ```
 
